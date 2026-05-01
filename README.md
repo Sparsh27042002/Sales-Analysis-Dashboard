@@ -52,3 +52,13 @@ This project focuses on analyzing sales data to generate actionable business ins
 - Discovered patterns in customer purchasing behavior  
 - Enabled quick comparison of business performance across dimensions  
 
+---
+
+## Screenshots
+<img width="1323" height="746" alt="image" src="https://github.com/user-attachments/assets/7dd8006e-0d42-401a-86ba-90ffc9b804e5" />
+<img width="1318" height="741" alt="image" src="https://github.com/user-attachments/assets/7dc11eb5-7de1-4fd9-bccd-
+  c6b7c8c291ad" />
+<img width="1316" height="745" alt="image" src="https://github.com/user-attachments/assets/def64703-007c-451e-9dcd-1ee46c0cd091" />
+<img width="1320" height="746" alt="image" src="https://github.com/user-attachments/assets/b3b77154-ebab-4a72-af51-dfa475127276" />
+
+
